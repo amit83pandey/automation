@@ -1,7 +1,7 @@
 # 📘 Selenium with Java – Beginners Tutorial
 
 Welcome to the **Selenium with Java Beginners Tutorial** repository! 🚀
-This repo contains all the code examples and resources used in my [https://www.youtube.com/playlist?list=PLU-gf_aqj7RKDY6yWbVl9G12zWHH2_uip](#) on Selenium with Java for automation testing.
+This repo contains all the code examples and resources used in my [https://www.youtube.com/playlist?list=PLU-gf_aqj7RKDY6yWbVl9G12zWHH2_uip](https://www.youtube.com/playlist?list=PLU-gf_aqj7RKDY6yWbVl9G12zWHH2_uip) on Selenium with Java for automation testing.
 
 ---
 
@@ -109,7 +109,7 @@ public class App {
 
 ## 📽️ YouTube Playlist
 
-👉 Watch the full video series here: [https://www.youtube.com/playlist?list=PLU-gf_aqj7RKDY6yWbVl9G12zWHH2_uip](#)
+👉 Watch the full video series here: [https://www.youtube.com/playlist?list=PLU-gf_aqj7RKDY6yWbVl9G12zWHH2_uip](https://www.youtube.com/playlist?list=PLU-gf_aqj7RKDY6yWbVl9G12zWHH2_uip)
 
 ---
 
