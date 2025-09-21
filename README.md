@@ -87,7 +87,7 @@ public class App {
 
    ```bash
    git clone https://github.com/amit83pandey/automation.git
-   cd selenium-beginners-tutorial
+   cd automation
    ```
 2. Open the project in **IntelliJ/Eclipse**.
 3. Run the `App.java` file.
